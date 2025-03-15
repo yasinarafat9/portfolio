@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "username": "john_doe",
+        "comment": "This product exceeded my expectations! The quality is fantastic and it works as described. I’ve been using it for a few weeks now, and it’s still going strong. Highly recommend it to anyone looking for a reliable option.",
+        "imageLink": "https://randomuser.me/api/portraits/men/0.jpg"
+      },
+      {
+        "id": 2,
+        "username": "jane_smith",
+        "comment": "I absolutely love this! It arrived on time and was packaged very securely. The product works flawlessly, and I’m really impressed with how easy it was to set up. It’s definitely worth the investment.",
+        "imageLink": "https://randomuser.me/api/portraits/men/14.jpg"
+      },
+      {
+        "id": 3,
+        "username": "sam_wilson",
+        "comment": "Great quality and fast delivery. The item was exactly as described, and I’m happy with my purchase. I’ll be sure to check out other products from this seller in the future. Would highly recommend this to anyone!",
+        "imageLink": "https://randomuser.me/api/portraits/men/52.jpg"
+      },
+      {
+        "id": 4,
+        "username": "lucas_lee",
+        "comment": "Superb! I’m so happy with my purchase. It’s very durable and performs exactly as I hoped. The setup process was quick and easy, and the customer service was excellent. I would buy again without hesitation.",
+        "imageLink": "https://randomuser.me/api/portraits/men/72.jpg"
+      },
+      {
+        "id": 5,
+        "username": "emily_jones",
+        "comment": "Fantastic experience from start to finish. The product arrived quickly, and it was in perfect condition. It works like a charm, and I can already tell it’s going to last a long time. I’ll definitely be coming back for more.",
+        "imageLink": "https://randomuser.me/api/portraits/men/29.jpg"
+      },
+      {
+        "id": 6,
+        "username": "chris_martin",
+        "comment": "This is exactly what I was looking for. It’s high-quality, performs perfectly, and looks great. It also arrived faster than I expected, which was a nice surprise. I’m a very satisfied customer!",
+        "imageLink": "http://randomuser.me/api/portraits/men/13.jpg"
+      },
+      {
+        "id": 7,
+        "username": "mia_perez",
+        "comment": "Incredible! The product is even better than I anticipated. It’s sleek, functional, and the quality is top-notch. I’ve been recommending it to my friends and family. Definitely a 5-star product all around.",
+        "imageLink": "https://randomuser.me/api/portraits/men/24.jpg"
+      }
+]
