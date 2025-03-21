@@ -37,7 +37,7 @@ const Home = () => {
   return (
     <>
       {/* BANNER */}
-      <section className='relative mt-10'>
+      {/* <section className='relative mt-10'>
         <div className='m-auto relative'>
           <img className='m-auto w-[1000px] h-[600px] object-cover  hover:scale-[105%] duration-200 ease-in-out ' src="https://i.pinimg.com/736x/4d/62/e9/4d62e9562c5c93b567d9e20150c7806e.jpg" alt="" />
           <div className='absolute top-70 right-200  hover:scale-[120%] duration-300 ease-in-out '>
@@ -45,12 +45,12 @@ const Home = () => {
             <h1 className='text-4xl doto-font'> Web Devoloper</h1>
           </div>
         </div>
-      </section>
+      </section> */}
 
 
 
       {/* SERVICE */}
-      <Wrapper>
+      {/* <Wrapper> */}
         <Services />
 
 
@@ -80,7 +80,7 @@ const Home = () => {
 
         {/* Reviews */}
         <Reviews />
-      </Wrapper>
+      {/* </Wrapper> */}
       <br />
       <br />
       <br />
