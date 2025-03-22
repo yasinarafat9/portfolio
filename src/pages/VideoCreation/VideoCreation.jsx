@@ -10,7 +10,7 @@ const VideoCreation = () => {
                 <div className='mb-20 m-auto'>
 
                     <h2 className='text-center text-xl my-5'>Select Your Video Theme</h2>
-                    <div className='grid grid-cols-2 md:grid-cols-3 gap-3 m-auto'>
+                    <div className='grid grid-cols-2 md:grid-cols-4 gap-3 m-auto'>
                         <Card3
                             title={"Podcast"}
                             texts={"Audio or video-based discussions often centered around specific topics, with minimal edits or stylized cuts. These can be more conversational or interview-driven"}
@@ -25,8 +25,14 @@ const VideoCreation = () => {
                         </Card3>
                         <Card3
                             title={"Motivational"}
-                            texts={"In-depth storytelling videos, often with interviews, narrative arcs, and detailed research. Edits are focused on creating an engaging, informative experience"}
+                            texts={"Voiceover on motivational quoits to make the audience call on action"}
                             imgLink={"https://i.pinimg.com/736x/47/98/4c/47984c538c69a2c1ad6079464c09b093.jpg"}>
+
+                        </Card3>
+                        <Card3
+                            title={"Vlog Video"}
+                            texts={"Edited content featuring travel destinations, usually including scenic footage, time-lapses, and artistic transitions."}
+                            imgLink={"https://i.pinimg.com/736x/16/04/80/16048019b2cb76cb91b721e4c31e876d.jpg"}>
 
                         </Card3>
                     </div>
