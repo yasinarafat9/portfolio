@@ -21,7 +21,7 @@ const Reviews = () => {
     }, []);
 
     return (
-        <section className='mx-auto mt-30 bg-gray-900 p-10'>
+        <section className='mx-auto mt-30 bg-gray-900 p-5'>
             <div className='my-10 mb-15 '>
                 <h3 className='text-3xl text-center'>Client Reviews</h3>
             </div>
