@@ -22,10 +22,10 @@ const Services = () => {
     ]
 
     return (
-        <section className='mt-20 mx-auto bg-gray-900 p-10 py-20'>
-            <h1 className='text-center text-5xl mb-10'>Services</h1>
+        <section className='mt-20 mx-auto  p-3 py-10'>
+            <h1 className='text-center text-4xl mb-8'>Services</h1>
 
-            <div className='grid md:grid-cols-4 gap-4'>
+            <div className='grid grid-cols-2 md:grid-cols-4 gap-3 '>
                 {
                     services.map((data, index) => (
                         <Card1 key={index} data={data}></Card1>

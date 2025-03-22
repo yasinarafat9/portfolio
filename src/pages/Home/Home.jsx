@@ -50,12 +50,12 @@ const Home = () => {
 
 
       {/* SERVICE */}
-      {/* <Wrapper> */}
+      <Wrapper>
         <Services />
 
 
         {/* SELECTED WORK */}
-        <section className='mt-40'>
+        {/* <section className='mt-40'>
           <div className='flex justify-between items-center'>
             <h2 className='text-3xl'>Selected Work</h2>
             <div className='flex gap-5 text-red-400'>
@@ -74,13 +74,13 @@ const Home = () => {
               ))
             }
           </div>
-        </section>
+        </section> */}
 
 
 
         {/* Reviews */}
         <Reviews />
-      {/* </Wrapper> */}
+      </Wrapper>
       <br />
       <br />
       <br />

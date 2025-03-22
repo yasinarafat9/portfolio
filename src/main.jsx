@@ -10,10 +10,13 @@ const root = document.getElementById("root");
 
 ReactDOM.createRoot(root).render(
   <BrowserRouter>
+  {/* <div className='max-w-[1080px] m-auto'> */}
+
     <Routes>
       <Route path="/" element={<Main />}>
         <Route path='/' element={<Home />}></Route>
       </Route>
     </Routes>
+  {/* </div> */}
   </BrowserRouter>
 );

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Wrapper = ({children}) => {
   return (
-    <div className='w-[1400px] m-auto'>
+    <div className='max-w-[1080px] m-auto'>
       {children}
     </div>
   )
